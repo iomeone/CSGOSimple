@@ -1,6 +1,6 @@
 # CSGOSimple
 CSGOSimple is an internal cheat base. This fork was created after MarkHC stops working on this project
-
+CS_UM_ServerRankRevealAll
 ## Repositories:
     Gitlab: https://gitlab.com/spirt/csgosimple
     Github: https://github.com/spirthack/csgosimple
